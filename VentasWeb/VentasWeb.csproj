@@ -1837,6 +1837,9 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Imagenes\logo.png" />
+    <Content Include="Imagenes\logos infoequip-02.png" />
+    <Content Include="Imagenes\logos infoequip.png" />
+    <Content Include="Imagenes\logos infoequip1.png" />
     <Content Include="Imagenes\tienda.png" />
     <Content Include="Imagenes\tiendalogo.png" />
     <Content Include="Scripts\bootstrap.bundle.js" />
